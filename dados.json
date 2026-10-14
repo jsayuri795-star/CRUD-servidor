@@ -1,0 +1,26 @@
+```JSON
+
+[
+{
+"id":1,
+"nome": "fulano da silva",
+"email": "fulano@email.com",
+"telefone": "1234-5678",
+"senha": "senha123"
+},
+{
+"id":2,
+"nome":"ciclano silvxx",
+"email": "ciclano@email.com",
+"telefone":"9101-1121",
+"senha": "senha456"
+},
+{
+"id":3,
+"nome": "fulanexxx salvi",
+"email": "Fulanexxx@email.com",
+"telefone": "1314-1516",
+"senha":"senha789"
+}
+]
+```
